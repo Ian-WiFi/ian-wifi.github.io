@@ -51,18 +51,16 @@ export interface SiteConfig {
 }
 
 export const SITE: SiteConfig = {
-  author: 'Astronaut',
-  desc: 'Developer and designer building premium web experiences.',
-  title: 'Spaceship',
+  author: 'Ian Stout',
+  desc: 'Wireless engineering, Wi-Fi performance, and RF insights.',
+  title: 'Stout Wireless',
   ogImage: 'og.png',
   lang: 'en-US',
   base: '/',
-  website: 'https://spaceship-one.vercel.app',
+  website: 'https://www.stoutwireless.com',
   social: {
-    x: 'https://x.com/astronaut',
-    github: 'https://github.com/astronaut',
-    telegram: 'https://t.me/astronaut',
-    facebook: 'https://facebook.com/astronaut',
+    github: 'https://github.com/Ian-WiFi',
+    LinkedIn: 'https://www.linkedin.com/in/ian-stout/',
   },
   googleAnalyticsId: '', // Example: 'G-XXXXXXXXXX'
   homeHeroDescription:
