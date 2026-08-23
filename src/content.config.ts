@@ -27,43 +27,7 @@ const posts = defineCollection({
         order: z.number(),
       })
       .optional(),
-    translatedPosts: z.record(z.string(), z.string()).optional(), // lang -> slug mapping
-  }),
-});
-
-const projects = defineCollection({
-  loader: glob({
-    pattern: ['**/*.{md,mdx}', '!**/_*'],
-    base: './site/content/projects',
-  }),
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    link: z.url().optional(),
-    github: z.url().optional(),
-    tags: z.array(z.string()).default([]),
-    types: z.array(z.enum(['commercial', 'open-source', 'social'])).default([]),
-    image: z.string().optional(),
-    order: z.number().default(0),
-    directLink: z.boolean().default(false).optional(),
-  }),
-});
-
-const appearances = defineCollection({
-  loader: glob({
-    pattern: ['**/*.{md,mdx}', '!**/_*'],
-    base: './site/content/appearances',
-  }),
-  schema: z.object({
-    title: z.string(),
-    event: z.string(),
-    date: z.date(),
-    type: z.enum(['talk', 'podcast', 'article', 'workshop', 'video']),
-    media: z.enum(['video', 'audio', 'text']).optional(),
-    link: z.url(),
-    description: z.string().optional(),
-    lang: z.string().default('en'),
-    duration: z.string().optional(),
+    translatedPosts: z.record(z.string(), z.string()).optional(),
   }),
 });
 
@@ -77,4 +41,4 @@ const about = defineCollection({
   }),
 });
 
-export const collections = { posts, projects, appearances, about };
+export const collections = { posts, about };
