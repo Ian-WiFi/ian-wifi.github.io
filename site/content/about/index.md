@@ -1,9 +1,9 @@
 ---
-title: "I'm Astronaut, a software designer and entrepreneur."
+title: Meet Ian the person behind Stout Wireless. 
 ---
 
-I've been obsessed with computers since I was a kid, though I didn't start coding until I was in my late teens. I'm a self-taught developer who loves the intersection of design and technology.
+**Ian Stout** is a Wireless Network Engineer and **CWNE #333** specializing in high-density RF design, protocol analysis, and enterprise network architecture.
 
-Currently, I'm building **Spaceship**, a modern blog template that combines the power of Astro 5, Svelte 5, and Tailwind 4. This project is my attempt at creating a perfect balance between performance and developer experience.
+His technical background spans engineering enterprise wireless deployments, managing network integrations, and architecting multi-vendor wired/wireless infrastructure. He holds specialized expertise in Ekahau site validation, Wireshark packet analysis, CBRS/Private 5G, and statewide technical community leadership.
 
-Beyond work, I'm an avid reader, amateur astronomer, and coffee enthusiast. I believe that the best products are built at the intersection of curiosity and craftsmanship.
+**Stout Wireless** serves as an ongoing technical repository sharing practical troubleshooting guides, RF tuning strategies, and infrastructure discoveries from the field.
