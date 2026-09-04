@@ -2,7 +2,6 @@
 import Layout from '@/layouts/Layout.astro';
 import { render, type CollectionEntry } from 'astro:content';
 import { formatDate } from '@/lib/utils/date';
-import TableOfContents from '@/components/TableOfContents.svelte';
 import { getPublishedPosts, getPostSlug } from '@/lib/utils/posts';
 
 import Breadcrumbs from '@/components/Breadcrumbs.svelte';
@@ -23,7 +22,7 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<'posts'>;
 
 const post = Astro.props as Props;
-const { Content, headings } = await render(post);
+const { Content } = await render(post);
 
 const effectiveSlug = getPostSlug(post);
 
@@ -144,11 +143,6 @@ const schemas = [
       <SocialShare client:load title={post.data.title} urlPath={Astro.url.pathname} />
 
       {post.data.showComments !== false && <Comments client:load />}
-    </div>
-
-    <!-- Sidebar (TOC) -->
-    <div class="hidden lg:block w-64 flex-shrink-0">
-      <TableOfContents client:load {headings} />
     </div>
   </div>
 </Layout>
