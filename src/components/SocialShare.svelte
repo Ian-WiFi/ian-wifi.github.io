@@ -45,7 +45,7 @@
   };
 </script>
 
-<div class="flex flex-col gap-4 py-8 border-t border-border/50">
+<div class="flex flex-col gap-4 py-4 border-t border-border/50">
   <h3 class="text-xs font-bold uppercase tracking-[0.2em] text-muted-foreground">
     Share this post
   </h3>
