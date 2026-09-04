@@ -106,11 +106,13 @@ const schemas = [
 
           {
             post.data.coverImage && (
-              <img
-                src={post.data.coverImage}
-                alt={post.data.title}
-                class="w-full rounded-2xl border border-border shadow-sm object-cover max-h-[420px]"
-              />
+              <div class="overflow-hidden rounded-2xl border border-border shadow-sm">
+                <img
+                  src={post.data.coverImage}
+                  alt={post.data.title}
+                  class="w-full object-cover max-h-[420px] grayscale hover:grayscale-0 transition-all duration-700 ease-out transform scale-105 hover:scale-100"
+                />
+              </div>
             )
           }
 

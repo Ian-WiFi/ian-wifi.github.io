@@ -29,11 +29,11 @@
 >
   <div class="flex items-start gap-3 sm:gap-4">
     {#if post.data.coverImage}
-      <a href={`/posts/${slug}`} class="relative z-10 shrink-0">
+      <a href={`/posts/${slug}`} class="relative z-10 shrink-0 overflow-hidden rounded-lg">
         <img
           src={post.data.coverImage}
           alt={post.data.title}
-          class="h-16 w-16 sm:h-20 sm:w-20 rounded-lg object-cover border border-border bg-muted"
+          class="h-16 w-16 sm:h-20 sm:w-20 object-cover border border-border bg-muted grayscale group-hover:grayscale-0 transition-all duration-700 ease-out"
         />
       </a>
     {/if}
