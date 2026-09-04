@@ -4,6 +4,7 @@ description: 'Two methods for capturing packets directly from a Ruckus AP: strea
 pubDate: 2020-10-04
 tags: ['ruckus', 'wireshark', 'packet-capture']
 featured: false
+coverImage: '/images/using-a-ruckus-ap-to-capture-packets/Controller-Packet-Capture-1024x523.png'
 ---
 
 As a wireless professional packet captures have become a big piece in finding solutions to problems, I recall hearing many times pcaps or it didn't happen, my preferred method would be to gather these from the client or as close to the client as possible, but not always can you be everywhere at once when the issues occur. As a good alternative at times, I will gather the pcaps from the AP that the clients are connecting to. Lucky for me I have found 2 ways to achieve this using Ruckus APs. By using a SmartZone Controller or SSHing into the Ruckus AP.
