@@ -70,7 +70,7 @@ export const SITE: SiteConfig = {
 
   // Homepage post counts
   featuredPostsCount: 3,
-  latestPostsCount: 3,
+  latestPostsCount: 5,
 
   // Homepage projects
   homeProjects: {
