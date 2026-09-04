@@ -9,7 +9,6 @@ import Breadcrumbs from '@/components/Breadcrumbs.svelte';
 import SocialShare from '@/components/SocialShare.svelte';
 import SeriesNavigation from '@/components/SeriesNavigation.astro';
 import LanguageSelector from '@/components/LanguageSelector.svelte';
-import CTABlock from '@/components/CTABlock.astro';
 import Comments from '@/components/Comments.svelte';
 import { getBlogPostingSchema, getBreadcrumbSchema } from '@/lib/schemas';
 
@@ -141,8 +140,6 @@ const schemas = [
       <article class="prose max-w-none mt-12 mb-16">
         <Content />
       </article>
-
-      {post.data.showCTA !== false && <CTABlock />}
 
       <SocialShare client:load title={post.data.title} urlPath={Astro.url.pathname} />
 
