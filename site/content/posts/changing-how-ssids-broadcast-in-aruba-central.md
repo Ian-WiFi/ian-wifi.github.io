@@ -4,6 +4,7 @@ description: 'How to use SSID zones in Aruba Central/Instant AP to broadcast dif
 pubDate: 2023-11-03
 tags: ['aruba', 'wireless', 'networking']
 featured: false
+coverImage: '/images/changing-how-ssids-broadcast-in-aruba-central/AP-Zones.png'
 ---
 
 It's been too long since I posted and it's been far too long since I posted about a wireless topic. So no better time to start than now.

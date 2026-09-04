@@ -4,6 +4,7 @@ description: 'A Google Sheets version of my Excel conditional-formatting trick f
 pubDate: 2021-02-18
 tags: ['wireless-surveys', 'google-sheets', 'tools']
 featured: false
+coverImage: '/images/keeping-track-of-wireless-validation-surveys-with-google-sheets/Google_Sheets.png'
 ---
 
 As a follow-up to one of the previous articles that I had [created](/posts/keeping-track-of-wireless-validation-surveys-with-excel). I wanted to have a backup of this data, and also be able to access it from more than just my computer. My solution to this problem is to put this data in Google Sheets since this allows me to achieve both of my goals. Also, I know that not everyone uses Excel so why not.

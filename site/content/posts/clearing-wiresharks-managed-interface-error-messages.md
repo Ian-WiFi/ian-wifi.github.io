@@ -4,6 +4,7 @@ description: 'A quick fix for Wireshark''s "Can''t get list of interfaces" error
 pubDate: 2020-10-27
 tags: ['wireshark', 'troubleshooting', 'tools']
 featured: false
+coverImage: '/images/clearing-wiresharks-managed-interface-error-messages/Wireshark-Error.png'
 ---
 
 As another follow up to one of my previous posts of [Capturing packets from a Ruckus AP](/posts/using-a-ruckus-ap-to-capture-packets) you will probably get an error stating that Wireshark "Can't get list of interfaces: is the server properly installed on x.x.x.x?" I am not sure if this happens on all operating systems, but I have had this happen while using Windows 10.

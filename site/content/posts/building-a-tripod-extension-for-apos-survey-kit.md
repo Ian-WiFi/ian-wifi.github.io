@@ -4,6 +4,7 @@ description: 'A DIY PVC pipe extension I built to add height to a WiFiStand APoS
 pubDate: 2020-12-28
 tags: ['wireless-surveys', 'diy', 'tools']
 featured: false
+coverImage: '/images/building-a-tripod-extension-for-apos-survey-kit/Extension_Idea_1.png'
 ---
 
 Recently, I purchased a WiFiStand Wheeled Basic Kit from WIFIStand ([https://wifistand.com/](https://wifistand.com/)) after getting all the parts and putting it together everything looked great and very sturdy.

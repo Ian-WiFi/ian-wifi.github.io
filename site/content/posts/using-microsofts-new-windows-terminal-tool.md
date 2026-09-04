@@ -4,6 +4,7 @@ description: "First impressions of Microsoft's Windows Terminal app, including u
 pubDate: 2020-12-15
 tags: ['tools', 'windows', 'terminal']
 featured: false
+coverImage: '/images/using-microsofts-new-windows-terminal-tool/Terminal-split-screen-1024x572.png'
 ---
 
 One tool that I have recently found that I have quite enjoyed is the [Windows Terminal by Microsoft Corporation](https://www.microsoft.com/store/productId/9N0DX20HK701).

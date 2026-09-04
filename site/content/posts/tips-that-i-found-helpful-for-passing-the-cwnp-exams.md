@@ -4,6 +4,7 @@ description: 'Study strategies, tools, and test-taking tips that helped me pass 
 pubDate: 2020-12-07
 tags: ['certifications', 'cwnp', 'study-tips']
 featured: false
+coverImage: '/images/tips-that-i-found-helpful-for-passing-the-cwnp-exams/Passing-an-Exam-Ideas-1.jpg'
 ---
 
 Taking advice from the Techimike blog that detailed [how he passed the CWNA](https://techimike.com/how-did-i-pass-the-cwna/), I figured I should apply the same things and write a blog post about the things I found helpful for passing the CWNP (and other vendors) exams. In the beginning, these are fairly simple tidbits of advice but towards the end, I get into more detail about the tips I had for the test itself.

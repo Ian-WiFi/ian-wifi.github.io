@@ -4,6 +4,7 @@ description: 'How I started using audiobooks and the Libby app to build a readin
 pubDate: 2021-04-22
 tags: ['personal', 'productivity', 'audiobooks']
 featured: false
+coverImage: '/images/becoming-better-at-reading-by-listening/Reading_Library.jpg'
 ---
 
 Reading has never been one of my strengths. This is mainly due to the fact that it's hard for me to stay focused while reading. I tend to daydream and by the time I have noticed, I am usually a few pages in with no idea where I started daydreaming or what was covered during this time.

@@ -4,6 +4,7 @@ description: 'How to build custom wall attenuation values into a reusable Ekahau
 pubDate: 2020-10-20
 tags: ['ekahau', 'wireless-surveys', 'tools']
 featured: false
+coverImage: '/images/modifying-the-wall-measurements-in-ekahau/Ekahau-Wall-Details-1024x161.png'
 ---
 
 Following up on my previous post about [Measuring Wall Attenuation](/posts/measuring-wall-attenuation), I figured I would show how I take these measurements and make them applicable. There are 2 ways to do this, the first requires you to modify an XML file that gets overwritten every time Ekahau is updated or reinstalled. The second, and the better way I feel, is to create a new project file and build this project to be used as a template. Matt Starling from the WiFi Ninjas does a great video tutorial on this: [https://wifininjas.net/index.php/2020/08/05/wn-video-009-matts-number-one-ekahau-tip/](https://wifininjas.net/index.php/2020/08/05/wn-video-009-matts-number-one-ekahau-tip/)

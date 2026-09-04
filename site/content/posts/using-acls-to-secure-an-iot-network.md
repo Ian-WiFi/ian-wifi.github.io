@@ -4,6 +4,7 @@ description: 'Building ACLs on a Ubiquiti EdgeRouter to isolate an IoT VLAN from
 pubDate: 2021-07-21
 tags: ['networking', 'iot', 'security']
 featured: false
+coverImage: '/images/using-acls-to-secure-an-iot-network/ACL_IoT_Local_Config.png'
 ---
 
 With more and more Internet of Things (IoT) and Smart Devices showing up in my house, I figured it would be a good idea to build a separate network for these devices to live on, rather than on my regular network. Creating the actual network was the easy part, but figuring out the ACLs to block this traffic was a little more difficult. I wanted to share my experiences in case anyone else is looking to do this same thing.

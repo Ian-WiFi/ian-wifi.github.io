@@ -4,6 +4,7 @@ description: 'Setting up VLANs on a Ubiquiti EdgeRouter to segment smart home de
 pubDate: 2023-06-20
 tags: ['ubiquiti', 'networking', 'vlans']
 featured: false
+coverImage: '/images/understanding-vlans-on-a-ubiquiti-edge-router/Add-Vlan-1.png'
 ---
 
 It's been quite a while since I posted an update to the blog, so I figured I better get on it. To ease into it, I am starting with a recently completed topic, segmenting my home network and lab into multiple VLANs.

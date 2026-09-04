@@ -4,6 +4,7 @@ description: 'Testing whether Wi-Fi actually interferes with Bluetooth devices, 
 pubDate: 2021-07-01
 tags: ['wireless', 'rf', 'bluetooth']
 featured: false
+coverImage: '/images/will-wifi-interfere-with-bluetooth/2.4Jammer.png'
 ---
 
 After listening to a podcast by the Clear to Send folks about [Spectrum Analysis](https://www.cleartosend.net/264). I had some recollections about some recent conversations that I had with few people about Bluetooth devices and determining if WiFi will stop these devices from working.

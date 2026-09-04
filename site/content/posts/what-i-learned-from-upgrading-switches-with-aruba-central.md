@@ -4,6 +4,7 @@ description: 'Lessons learned upgrading switch firmware through Aruba Central, i
 pubDate: 2022-10-02
 tags: ['aruba', 'networking', 'switches']
 featured: false
+coverImage: '/images/what-i-learned-from-upgrading-switches-with-aruba-central/Central-Loading-image.jpg'
 ---
 
 It’s been long overdue since I published a new post. Recently, I changed jobs and now manage an Aruba deployment, while this has been different, I am excited about this challenge. I wanted to share about one of the latest problems I ran into and what I learned from it.

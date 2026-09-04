@@ -4,6 +4,7 @@ description: "Using Excel's conditional formatting to color-code wireless valida
 pubDate: 2020-11-09
 tags: ['wireless-surveys', 'excel', 'tools']
 featured: false
+coverImage: '/images/keeping-track-of-wireless-validation-surveys-with-excel/Color-Scales.png'
 ---
 
 One thing that I have found helpful, is using excel to record the dates of when I have performed a wireless validation survey. This helps me know when that survey is getting old and needs to be re-evaluated. To do this I use the conditional formatting section in excel to show me a color code of these dates.

@@ -4,6 +4,7 @@ description: 'A step-by-step process for measuring the dB loss (attenuation) of 
 pubDate: 2020-09-25
 tags: ['wireless-surveys', 'rf', 'networking']
 featured: false
+coverImage: '/images/measuring-wall-attenuation/AirCheck-Far-scaled-1-768x1024.jpg'
 ---
 
 I have wanted to do a blog post on this topic for some time, so here it is.

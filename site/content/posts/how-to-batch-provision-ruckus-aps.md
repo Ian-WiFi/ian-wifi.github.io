@@ -4,6 +4,7 @@ description: "Using Ruckus SmartZone's batch provisioning feature to mass-import
 pubDate: 2020-11-18
 tags: ['ruckus', 'wireless', 'networking']
 featured: false
+coverImage: '/images/how-to-batch-provision-ruckus-aps/Batch-AP-1024x744.png'
 ---
 
 After using Ruckus' SmartZone platform for a bit now, I have found a few tricks along the way that has made my life easier, one of these tricks is Batch Provisioning APs. This allows you to mass import AP's into your controller with some pre-configured settings. (Name, location, description, IP settings, etc) while this doesn't allow you to configure all of the settings of the AP it is a good start.

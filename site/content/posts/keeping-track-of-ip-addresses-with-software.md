@@ -4,6 +4,7 @@ description: 'Setting up phpIPAM to track IP addresses and subnets while segment
 pubDate: 2020-11-23
 tags: ['networking', 'ip-management', 'homelab']
 featured: false
+coverImage: '/images/keeping-track-of-ip-addresses-with-software/IPv4address.jpg'
 ---
 
 Over the last little bit, I feel that I am losing a bit of my networking knowledge due to doing the same thing. I decided I needed a new challenge to help me stay fresh, and that I would start separating my home network into multiple Vlans and subnets. Currently, most of the devices in my house are on DHCP, which I'm fine with, except for a handful of more critical devices that need dedicated IPs. Usually, I either rely on my memory, which is not the greatest, or my browser history to find a device. My goal is to break my network into 3 zones default, internet-only, and a lab area.

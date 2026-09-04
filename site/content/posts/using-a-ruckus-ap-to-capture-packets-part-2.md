@@ -4,6 +4,7 @@ description: "A follow-up on capturing packets from Ruckus 802.11ax APs, where t
 pubDate: 2020-10-12
 tags: ['ruckus', 'wireshark', 'packet-capture']
 featured: false
+coverImage: '/images/using-a-ruckus-ap-to-capture-packets-part-2/Ruckus-AP-Interfaces-121x300.png'
 ---
 
 After publishing my [last article](/posts/using-a-ruckus-ap-to-capture-packets), I was informed that these steps did not work for some AP models on the firmware I was running (5.2.1.0.698), thinking that I had tested this beforehand I set out to find out where I was wrong, and sure enough on the 802.11ax APs that I tested these settings did not work. Well, they worked but there weren't any packets streaming to Wireshark. 

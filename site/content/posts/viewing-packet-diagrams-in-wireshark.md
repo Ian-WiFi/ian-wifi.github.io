@@ -4,6 +4,7 @@ description: "How to enable and use Wireshark's Packet Diagrams feature to visua
 pubDate: 2021-02-24
 tags: ['wireshark', 'packet-capture', 'tools']
 featured: false
+coverImage: '/images/viewing-packet-diagrams-in-wireshark/Packet_Diagram-1024x720.png'
 ---
 
 In one of my conversations with another wireless engineer, I was made aware of a feature in Wireshark that can be used to visually display a packet and the individual fields within it. I recall hearing about this feature a little while ago but thought it was only available in the beta versions of Wireshark. It looks like this has now been rolled into the stable release of Wireshark. After struggling for a little bit to find an exact name or how to turn it on, I figured I should write a blog post about it in case anyone else has wondered about this same thing. The exact feature name is called "Packet Diagrams" and they look something like this:

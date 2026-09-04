@@ -4,6 +4,7 @@ description: 'Tools and techniques I use to plan point-to-point wireless links, 
 pubDate: 2021-02-10
 tags: ['wireless', 'point-to-point', 'tools']
 featured: false
+coverImage: '/images/tips-for-planning-out-point-to-point-wireless-links/Align_PtP_Links1-1024x768.jpg'
 ---
 
 In my current job role, I sometimes need to use Point to Point (PtP) Wireless links to reach some other areas that were previously unreachable. The links are mostly basic and I haven't yet done anything too crazy relating to this subject such as detachable antennas, really long distances, or licensed frequencies, but maybe one day I will get these experiences. This is not usually my first choice but this is what I turn to when I need a reasonably inexpensive solution for connectivity. From a different conversation, [Keith Parsons](https://twitter.com/KeithRParsons) shared with us a great piece of information relating to the different mediums, so I decided to reuse it, Thanks Keith. "Just remember, fiber trumps copper, copper trumps PtP wireless, PtP Wireless trumps Wi-Fi, Wi-Fi trumps Mesh. Not to mention… 5GHz trumps 2.4GHz so don’t put anything ‘important’ on 2.4GHz."
